@@ -1,6 +1,8 @@
 jsoup changelog
 
 *** Release 1.14.1 [PENDING]
+  * Improvement: Add ability to set custom HostnameVerifier to verify hostname during handshake
+
   * Change: updated the minimum supported Java version from Java 7 to Java 8.
 
   * Change: updated the minimum Android API level from 8 to 10.
